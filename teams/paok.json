@@ -1,38 +1,38 @@
 {
-  "name": "Α.Ο. Φοίνικας Σύρου",
+  "name": "Π.Α.Ο.Κ.",
   "colors": {
-    "primary": "#FF4500",
-    "secondary": "#000080"
+    "primary": "#000000",
+    "secondary": "#FFFFFF"
   },
-  "logo": "foinika.png",
-  "avgAge": "27.1",
-  "avgHeight": "1.95",
+  "logo": "paok.png",
+  "avgAge": "25.9",
+  "avgHeight": "1.96",
   "coach": {
-    "name": "Αθανάσιος Τερζής",
+    "name": "Joško Milenkoski (MKD)",
     "role": "ΠΡΟΠΟΝΗΤΗΣ"
   },
   "players": [
-    {"number": 1, "surname": "Σαλταφερίδης", "name": "Χρήστος", "nationality": "GRE", "position": "Α", "birthdate": "19/01/2002", "height": "1,95", "team": "Π.Α.Ο.Κ."},
-    {"number": 3, "surname": "Nevot", "name": "Thomas", "nationality": "FRA", "position": "Π", "birthdate": "30/04/1995", "height": "1,92", "team": "Emma Villas Siena"},
-    {"number": 4, "surname": "Μπουράκης", "name": "Αντώνιος", "nationality": "GRE", "position": "Λ", "birthdate": "28/05/1998", "height": "1,80", "team": "Α.Ο. Φοίνικας Σύρου"},
-    {"number": 5, "surname": "Moralez Michelucci", "name": "Renan", "nationality": "BRA", "position": "Κ", "birthdate": "09/01/1994", "height": "2,00", "team": "Alterna Stade Poitevin (FRA)"},
-    {"number": 6, "surname": "Ρουσόπουλος", "name": "Θεοφάνης", "nationality": "GRE", "position": "Π", "birthdate": "21/07/2000", "height": "1,90", "team": "Α.Ο. Φοίνικας Σύρου"},
-    {"number": 8, "surname": "Αναγνώστου", "name": "Πέτρος", "nationality": "GRE", "position": "Κ", "birthdate": "15/05/2000", "height": "2,02", "team": "Ο.Φ.Η."},
-    {"number": 9, "surname": "Truhtchev", "name": "Axel", "nationality": "FRA", "position": "Α", "birthdate": "29/04/1995", "height": "1,96", "team": "Batroun (LBN)"},
-    {"number": 15, "surname": "Ρούσος", "name": "Ευάγγελος", "nationality": "GRE", "position": "Α", "birthdate": "27/08/2005", "height": "1,93", "team": "Ν.Γ.Σ.Θ. Ηρακλής"},
-    {"number": 17, "surname": "Κωστόπουλος", "name": "Βασίλειος", "nationality": "GRE", "position": "Α", "birthdate": "16/02/1995", "height": "1,98", "team": "Ολυμπιακός Σ.Φ.Π. ΟΝΕΧ"},
-    {"number": 18, "surname": "Μήλης", "name": "Νικόλαος", "nationality": "GRE", "position": "Δ", "birthdate": "04/11/1996", "height": "1,93", "team": "Α.Ο. Φοίνικας Σύρου"},
-    {"number": 19, "surname": "Van De Dries", "name": "Bram", "nationality": "BEL", "position": "Δ", "birthdate": "14/08/1989", "height": "2,08", "team": "Burgan Sport Club"},
-    {"number": 20, "surname": "Αλιάι", "name": "Μαρτίν", "nationality": "GRE", "position": "Λ", "birthdate": "20/07/2000", "height": "1,80", "team": "Α.Σ. Άρης"},
-    {"number": 25, "surname": "Καγιαλής", "name": "Μιχαήλ", "nationality": "GRE", "position": "Κ", "birthdate": "24/06/2000", "height": "2,00", "team": "Α.Ο.Π. Κηφισιάς"},
-    {"number": 26, "surname": "Σιαπάνης", "name": "Σωτήριος", "nationality": "CYP", "position": "Α", "birthdate": "25/01/2001", "height": "1,92", "team": "Long Beach State (USA)"}
+    {"number": 1, "surname": "Alvarez", "name": "Jose Masso", "nationality": "CUB", "position": "Κ", "birthdate": "02/12/97", "height": "2,04", "team": "Friedrichshafen (GER)"},
+    {"number": 4, "surname": "Τέλιος", "name": "Ιάσων", "nationality": "GRE", "position": "Λ", "birthdate": "22/04/09", "height": "1,82", "team": "Π.Α.Ο.Κ."},
+    {"number": 6, "surname": "Μιχελάκης", "name": "Γεώργιος", "nationality": "GRE", "position": "Λ", "birthdate": "27/05/97", "height": "1,77", "team": "Ο.Φ.Η."},
+    {"number": 9, "surname": "Κοκκινάκης", "name": "Μενέλαος", "nationality": "GRE", "position": "Α", "birthdate": "21/01/93", "height": "1,93", "team": "Π.Α.Ο.Κ."},
+    {"number": 10, "surname": "Παπανικολάου", "name": "Γεώργιος", "nationality": "GRE", "position": "Δ", "birthdate": "02/11/06", "height": "1,90", "team": "Πήγασος Πολίχνης"},
+    {"number": 11, "surname": "Torres", "name": "Alberto Lazaro", "nationality": "CUB", "position": "Α", "birthdate": "11/09/96", "height": "1,98", "team": "Α.Ο. Φλοίσβος Π. Φαλήρου"},
+    {"number": 12, "surname": "Kolev", "name": "Nikolay", "nationality": "BUL", "position": "Κ", "birthdate": "16/12/97", "height": "2,04", "team": "Π.Α.Ο.Κ."},
+    {"number": 13, "surname": "Τακουρίδης", "name": "Ιωάννης", "nationality": "GRE", "position": "Κ", "birthdate": "24/05/88", "height": "1,98", "team": "Π.Α.Ο.Κ."},
+    {"number": 14, "surname": "Γαλιώτος", "name": "Μάρκος", "nationality": "GRE", "position": "Π", "birthdate": "23/08/96", "height": "1,95", "team": "Π.Α.Ο.Κ."},
+    {"number": 15, "surname": "Καρασαββίδης", "name": "Βασίλειος", "nationality": "GRE", "position": "Λ", "birthdate": "17/03/1998", "height": "1,98", "team": "Α.Ο. Φλοίσβος Π. Φαλήρου"},
+    {"number": 18, "surname": "Μπόνιας", "name": "Νικόλαος", "nationality": "GRE", "position": "Κ", "birthdate": "14/02/2008", "height": "2,00", "team": "Π.Α.Ο.Κ."},
+    {"number": 19, "surname": "Hernandez", "name": "Fernando", "nationality": "CUB", "position": "Δ", "birthdate": "11/09/89", "height": "1,96", "team": "Kuwait Club (KWT)"},
+    {"number": 27, "surname": "Μούχλιας", "name": "Σταύρος", "nationality": "GRE", "position": "Α", "birthdate": "05/01/08", "height": "2,05", "team": "Π.Α.Ο.Κ."},
+    {"number": 99, "surname": "Παυλίδης", "name": "Λάζαρος", "nationality": "GRE", "position": "Π", "birthdate": "11/07/06", "height": "1,99", "team": "Μ.Γ.Σ.Α.Ε. Κομοτηνής"}
   ],
   "staff": [
-    {"role": "Βοηθός Προπονητή", "name": "Alejandro Schneider (ARG)"},
-    {"role": "Στατιστικολόγος", "name": "Άννα Μουστάκα"},
-    {"role": "Team Manager", "name": "Εμμανουήλ Βαμβακούσης"},
-    {"role": "Φυσιοθεραπευτής", "name": "Ιωάννα Ζακαλκά"},
-    {"role": "Γυμναστής", "name": "Βασίλειος Κοντζαπαναγιώτης"},
-    {"role": "Φροντιστής", "name": "Ιωάννης Ρούσσος, Νικόλαος Ρούσσος"}
+    {"role": "Βοηθός Προπονητή", "name": "Βαλάντης Μαμάης"},
+    {"role": "Στατιστικολόγος", "name": "Βίκυ Νεντή"},
+    {"role": "Team Manager", "name": "Αχιλλέας Τζίκας"},
+    {"role": "Φυσιοθεραπευτής", "name": "Ηλίας Χαρατάσος"},
+    {"role": "Γυμναστής", "name": "Νικόλαος Γκιόσης"}
   ]
 }
+
